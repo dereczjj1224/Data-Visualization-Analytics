@@ -1,0 +1,79 @@
+{
+  "nodes": [
+        {
+            "id": "sim1",
+            "name": "Rest1-1",
+            "type": "restaurant",
+            "score": 3.9
+        }
+        ,
+        {
+            "id": "sim2",
+            "name": "Rest1-2",
+            "type": "restaurant",
+            "score": 3.8
+        }
+        ,
+        {
+            "id": "sim3",
+            "name": "Rest1-3",
+            "type": "restaurant",
+            "score": 3.7
+        }
+        ,
+        {
+            "id": "sim4",
+            "name": "Rest1-4",
+            "type": "restaurant",
+            "score": 3.7
+        }
+        ,
+        {
+            "id": "sim5",
+            "name": "Rest1-5",
+            "type": "restaurant",
+            "score": 3.6
+        }
+        ,
+        {
+            "id": "sim6",
+            "name": "Rest1-6",
+            "type": "restaurant",
+            "score": 3.6
+        }
+        ,
+        {
+            "id": "sim7",
+            "name": "Rest1-7",
+            "type": "restaurant",
+            "score": 3.5
+        }
+        ,
+        {
+            "id": "sim8",
+            "name": "Rest1-8",
+            "type": "restaurant",
+            "score": 3.2
+        }
+        ,
+        {
+            "id": "sim9",
+            "name": "Rest1-9",
+            "type": "restaurant",
+            "score": 2.9
+        }
+        ,
+        {
+            "id": "sim10",
+            "name": "Rest1-10",
+            "type": "restaurant",
+            "score": 2.7
+        }
+        ,
+        {
+            "id": "sim11",
+            "name": "Rest1-11",
+            "type": "restaurant",
+            "score": 2.6
+        }]
+}

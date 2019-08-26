@@ -1,0 +1,439 @@
+
+body {
+    margin: 0;
+    font-family: "museo-slab";
+    font-size: 12px;
+}
+
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: white;
+    margin: 5px;
+}
+
+h4 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/**
+ ***********************************************************************
+ * Header Related
+ ***********************************************************************
+ */
+
+.site-header {
+    display: flex;
+    flex-direction: row;
+    background: #fd7c21;
+    background: #d32323;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+    height: 35px;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 20%;
+}
+
+.logo img {
+    width: 150px;
+}
+
+/**
+ * Search Bar
+ */
+
+.search-container {
+    /* TODO - this needs figured out how to show nicer */
+    display: inline-flex;
+    width: 55%;
+    border-radius: 10px;
+    justify-content: center;
+    padding-left: 25px;
+}
+
+.search-container select.search-box {
+    flex: 1;
+    border: 1px solid #000000;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 18px;
+    padding: 10px 5px;
+    border-radius: 3px 0 0 3px;
+}
+
+.search-container .search-button {
+    border: 1px solid #000000;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    background: white;
+    border-radius: 5px;
+    border: 0;
+}
+
+.search-container .search-icon {
+    font-size: 15px;
+    color: black;
+}
+
+.account-actions {
+    margin-left: auto;
+    margin-right: 35px;
+}
+
+/**
+ ***********************************************************************
+ * Main Content Related
+ ***********************************************************************
+ */
+
+.content {
+    display: flex;
+    flex: 1;
+}
+
+.columns {
+    display: flex;
+    flex: 1;
+}
+
+.main {
+    flex: 1;
+    background: white;
+    /*padding: 5px 5px 5px 5px;*/
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container-header {
+    background: #333;
+    border: 1px solid #d2d2d2;
+}
+.graph-bottom {
+    flex: 1;
+    background: white;
+    padding: 5px 5px 5px 5px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-header {
+}
+
+.graph-top {
+	width: 100%;
+}
+
+.right-sidebar {
+    width: 20%;
+    background: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.left-sidebar {
+    width: 20%;
+    background: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.active-node-container-header {
+    background: #333;
+    border: 1px solid #d2d2d2;
+}
+
+.active-node-container {
+    border-left: 1px solid #d2d2d2;
+    border-right: 1px solid #d2d2d2;
+    flex: 1;
+}
+
+
+
+.history-container-header {
+    background: #333;
+    border: 1px solid #d2d2d2;
+}
+
+.history-container {
+    border-left: 1px solid #d2d2d2;
+    border-right: 1px solid #d2d2d2;
+    border-bottom: 1px solid #d2d2d2;
+    flex: 2;
+}
+
+.similiarity-container-header {
+    background: #333;
+    border: 1px solid #d2d2d2;
+}
+
+/*
+.similarity-container table, th, td {
+    background: #FFF5F0;
+    border: 1px solid #d2d2d2;
+}*/
+
+.similarity-container {
+    border-left: 1px solid #d2d2d2;
+    border-right: 1px solid #d2d2d2;
+    border-bottom: 1px solid #d2d2d2;
+    flex: 1;
+}
+
+.score-comparison-container-header {
+    background: #333;
+    border: 1px solid #d2d2d2;
+}
+
+.score-comparison-container {
+    border-left: 1px solid #d2d2d2;
+    border-right: 1px solid #d2d2d2;
+    border-bottom: 1px solid #d2d2d2;
+    flex: 2;
+}
+
+.legendText {
+	font: 15px sans-serif;
+    color: black;
+}
+
+.histTitle {
+	font: 25px sans-serif;
+    color: black;
+}
+	
+.histNodeTitle{
+	font: 16px sans-serif;
+    color: black;
+}
+
+.graph-title{
+	font: 15px sans-serif;
+    color: black;
+}
+
+.graph-instruction1{
+	font: 12px sans-serif;
+    color: black;
+}
+
+.graph-instruction2{
+	font: 12px sans-serif;
+    color: black;
+}
+
+.barChartTitle{
+	font: 20px sans-serif;
+    color: black;
+}
+
+.bar_rect{
+	fill: black;
+	fill-opacity: 0.5;
+}
+
+.bar_rect_Uselected{
+	/*fill: #aec7e8;*/
+    fill: #0571b0;
+	fill-opacity: 1.0;
+}
+
+.bar_rect_Rselected{
+	/*fill: #ff7f0e;*/
+    fill: #d32323;
+	fill-opacity: 1.0;
+}
+
+.bar_text{
+	fill: black;
+	font: 12px sans-serif;
+}
+
+.bar_score_text{
+	fill: white;
+	font: 18px sans-serif;
+}
+	
+.axisHorizontal path{
+	fill: none;
+}
+
+.axisHorizontal .tick line {
+	stroke-width: 1;
+	stroke: rgba(0, 0, 0, 0.2);
+}
+
+table {
+    border-collapse: collapse;
+    background: white;
+}
+
+
+/* Zebra striping */
+tr:nth-of-type(odd) {
+	background: #eee; 
+}
+th { 
+	background: #333; 
+	color: white; 
+	font-weight: bold; 
+	cursor: s-resize;
+	background-repeat: no-repeat;
+	background-position: 3% center;
+}
+th {
+    padding: 5px;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    text-align: left;
+}
+
+td {
+	padding: 6px;
+	border: 1px solid #ccc;
+	text-align: left;
+}
+
+th.metric {
+    text-align: center;
+    white-space: nowrap;
+}
+
+td.metric {
+    text-align: right;
+}
+
+th.des:after {
+  content: "\21E9";
+}
+
+th.aes:after {
+  content: "\21E7";
+}
+
+
+/**
+ * D3 specific CSS
+ */
+
+circle {
+    stroke: black;
+    stroke-width: 1.5;
+}
+
+text {
+	font: 10px sans-serif;
+	color: white;
+}
+
+.selected-circle {
+    font-weight: bold;
+    stroke: black;
+}
+
+.simSelected-circle {
+    stroke: red;
+}
+
+.root-circle {
+    fill: #1f77b4;
+}
+
+.unknown-circle {
+    fill: black;
+}
+
+.user-circle {
+    fill: #aec7e8;
+	stroke: black;
+}
+
+.user-circle0 {
+    fill: #0571b0;
+    stroke: #333;
+    stroke-width: 2;
+    r: 18;
+}
+
+/*
+.user-circle0 + rect {
+    fill: red;
+}
+
+.user-circle0 + text {
+    dy: 0;
+}*/
+
+.user-circle1 {
+    fill: #0571b0;
+    stroke: #00005f;
+    r: 15;
+}
+
+.user-circle2 {
+    fill: #92c5de;
+    stroke: #00005f;
+    r: 15;
+}
+
+.user-circle3 {
+    fill: #92c5de;
+    stroke: #00005f;
+    /*stroke-dasharray: 3 1;
+    fill-opacity: .7;*/
+    r: 15;
+}
+
+.restaurant-circle {
+    fill: #83420a;
+	stroke: black;
+}
+
+.restaurant-circle0 {
+    fill: #d32323;
+    stroke: #333;
+    stroke-width: 2;
+    r: 18;
+}
+
+.restaurant-circle1 {
+    fill: #d32323;
+    stroke: #683307;
+    r: 15;
+}
+
+.restaurant-circle2 {
+    fill: #e45e5e;
+    stroke: #683307;
+    r: 15;
+}
+
+.restaurant-circle3 {
+    fill: #e45e5e;
+    stroke: #683307;
+    /*stroke-dasharray: 3 1;
+    fill-opacity: .7;*/
+    r: 15;
+}
+
+
+

@@ -1,0 +1,65 @@
+{
+  "nodes": [
+        {
+            "id": "sim1",
+            "name": "LMU1-1",
+            "type": "lmu",
+            "score": 3.9
+        }
+        ,
+        {
+            "id": "sim2",
+            "name": "LMU1-2",
+            "type": "lmu",
+            "score": 3.8
+        }
+        ,
+        {
+            "id": "sim3",
+            "name": "LMU1-3",
+            "type": "lmu",
+            "score": 3.7
+        }
+        ,
+        {
+            "id": "sim4",
+            "name": "LMU1-4",
+            "type": "lmu",
+            "score": 3.7
+        }
+        ,
+        {
+            "id": "sim5",
+            "name": "LMU1-5",
+            "type": "lmu",
+            "score": 3.6
+        }
+        ,
+        {
+            "id": "sim6",
+            "name": "LMU1-6",
+            "type": "lmu",
+            "score": 3.6
+        }
+        ,
+        {
+            "id": "sim7",
+            "name": "LMU1-7",
+            "type": "lmu",
+            "score": 3.5
+        }
+        ,
+        {
+            "id": "sim8",
+            "name": "LMU1-8",
+            "type": "lmu",
+            "score": 3.2
+        }
+        ,
+        {
+            "id": "sim9",
+            "name": "LMU1-9",
+            "type": "lmu",
+            "score": 3.1
+        }]
+}

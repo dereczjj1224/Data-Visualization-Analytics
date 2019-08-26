@@ -1,0 +1,575 @@
+,user_pair,restaurant1,match1,restaurant2,match2
+0,-ajqjNKLQUtthACttISgvw+++1VIuDm-PsXw7Yfd98UdYpQ,Dubliner,0.8,OHSO Brewery - Paradise Valley,1.0
+1,-ajqjNKLQUtthACttISgvw+++2VhVWgmjlJ0V9S9V0S3buA,Dubliner,0.75,OHSO Brewery - Paradise Valley,1.0
+2,-ajqjNKLQUtthACttISgvw+++92e_B3VDY5TqxVYsKuNzKg,OHSO Brewery - Paradise Valley,0.75,Yard House,1.0
+3,-ajqjNKLQUtthACttISgvw+++92e_B3VDY5TqxVYsKuNzKg,Dubliner,1.0,Yard House,1.0
+4,-ajqjNKLQUtthACttISgvw+++92e_B3VDY5TqxVYsKuNzKg,Dubliner,1.0,OHSO Brewery - Paradise Valley,0.75
+5,-ajqjNKLQUtthACttISgvw+++AjrMEX47GaTeFw36vfVS-A,Dubliner,0.8,Valle Luna,1.0
+6,-ajqjNKLQUtthACttISgvw+++CwLEKnnODT2zSpqzsLojFw,Dubliner,0.8,OHSO Brewery - Paradise Valley,0.75
+7,-ajqjNKLQUtthACttISgvw+++e8lMbWebomEsTgr-5CGjMQ,OHSO Brewery - Paradise Valley,0.6,Valle Luna,1.0
+8,-ajqjNKLQUtthACttISgvw+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.6
+9,-ajqjNKLQUtthACttISgvw+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.5,Valle Luna,1.0
+10,-ajqjNKLQUtthACttISgvw+++ePfhvRM-deQgMduESHRWDg,Dubliner,1.0,Valle Luna,1.0
+11,-ajqjNKLQUtthACttISgvw+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,1.0,Yard House,1.0
+12,-ajqjNKLQUtthACttISgvw+++G2OheOuxzSC9B5SbDM6NaA,Dubliner,0.8,Yard House,1.0
+13,-ajqjNKLQUtthACttISgvw+++GK07iEy8UllYo113DlNnww,Dubliner,0.5,Yard House,0.75
+14,-ajqjNKLQUtthACttISgvw+++HkN6cx0EWOrnLIa4YCrnmg,Dubliner,0.5,OHSO Brewery - Paradise Valley,1.0
+15,-ajqjNKLQUtthACttISgvw+++I23Esl07aqjDS8AANKn1-w,Dubliner,0.25,OHSO Brewery - Paradise Valley,0.6
+16,-ajqjNKLQUtthACttISgvw+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,0.75,Yard House,1.0
+17,-ajqjNKLQUtthACttISgvw+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,1.0,OHSO Brewery - Paradise Valley,0.6
+18,-ajqjNKLQUtthACttISgvw+++kpZWl_uXA262ji6wt6phpg,Dubliner,0.5,Yard House,0.8
+19,-ajqjNKLQUtthACttISgvw+++KUTTubStiNYigQpi3L9-3w,Dubliner,1.0,Valle Luna,0.8
+20,-ajqjNKLQUtthACttISgvw+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Yard House,1.0
+21,-ajqjNKLQUtthACttISgvw+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.3333
+22,-ajqjNKLQUtthACttISgvw+++R6VQwYh9UiV-gDZ1bh0jzw,Yard House,1.0,Valle Luna,0.8
+23,-ajqjNKLQUtthACttISgvw+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.75,Yard House,1.0
+24,-ajqjNKLQUtthACttISgvw+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.75,Valle Luna,0.8
+25,-ajqjNKLQUtthACttISgvw+++S0YQ47x5g8SfZe87KGvsJw,OHSO Brewery - Paradise Valley,0.75,Yard House,0.75
+26,-ajqjNKLQUtthACttISgvw+++S0YQ47x5g8SfZe87KGvsJw,OHSO Brewery - Paradise Valley,0.75,Valle Luna,1.0
+27,-ajqjNKLQUtthACttISgvw+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Yard House,0.75
+28,-ajqjNKLQUtthACttISgvw+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Valle Luna,1.0
+29,-ajqjNKLQUtthACttISgvw+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,OHSO Brewery - Paradise Valley,0.75
+30,-ajqjNKLQUtthACttISgvw+++S0YQ47x5g8SfZe87KGvsJw,Yard House,0.75,Valle Luna,1.0
+31,-ajqjNKLQUtthACttISgvw+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Yard House,1.0
+32,-ajqjNKLQUtthACttISgvw+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Valle Luna,0.8
+33,-ajqjNKLQUtthACttISgvw+++TryfbZaaGtedncOMq9k86g,Yard House,1.0,Valle Luna,0.8
+34,-ajqjNKLQUtthACttISgvw+++YSvMlcF2k6KtUCedgfsYwg,Dubliner,0.25,Valle Luna,0.8
+35,121ruQUFk6Bl2V1wBwa31A+++1dbluwhDAd8EoBJOMtiSag,Dubliner,1.0,Rokerij,1.0
+36,121ruQUFk6Bl2V1wBwa31A+++6U-RmQAW1BB_QdO_6emA0w,Dubliner,1.0,Rokerij,0.25
+37,121ruQUFk6Bl2V1wBwa31A+++92e_B3VDY5TqxVYsKuNzKg,Dubliner,0.75,Rokerij,1.0
+38,121ruQUFk6Bl2V1wBwa31A+++b8LFVfj8Gu3FWJB38b-EDQ,Dubliner,0.75,Rokerij,1.0
+39,121ruQUFk6Bl2V1wBwa31A+++kc-rnN-ndnFTdHG4TfIgeQ,Dubliner,1.0,Rokerij,0.8
+40,121ruQUFk6Bl2V1wBwa31A+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,0.75,Rokerij,0.8
+41,121ruQUFk6Bl2V1wBwa31A+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.75,Rokerij,0.8
+42,121ruQUFk6Bl2V1wBwa31A+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.75,Rokerij,1.0
+43,121ruQUFk6Bl2V1wBwa31A+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.6,Rokerij,0.8
+44,1dbluwhDAd8EoBJOMtiSag+++2VhVWgmjlJ0V9S9V0S3buA,Dubliner,1.0,Feeney's Restaurant and Bar,0.75
+45,1dbluwhDAd8EoBJOMtiSag+++6U-RmQAW1BB_QdO_6emA0w,Dubliner,1.0,Rokerij,0.25
+46,1dbluwhDAd8EoBJOMtiSag+++92e_B3VDY5TqxVYsKuNzKg,Feeney's Restaurant and Bar,0.75,Rokerij,1.0
+47,1dbluwhDAd8EoBJOMtiSag+++92e_B3VDY5TqxVYsKuNzKg,Dubliner,0.75,Rokerij,1.0
+48,1dbluwhDAd8EoBJOMtiSag+++92e_B3VDY5TqxVYsKuNzKg,Dubliner,0.75,Feeney's Restaurant and Bar,0.75
+49,1dbluwhDAd8EoBJOMtiSag+++b8LFVfj8Gu3FWJB38b-EDQ,Feeney's Restaurant and Bar,0.75,Rokerij,1.0
+50,1dbluwhDAd8EoBJOMtiSag+++b8LFVfj8Gu3FWJB38b-EDQ,Dubliner,0.75,Feeney's Restaurant and Bar,0.75
+51,1dbluwhDAd8EoBJOMtiSag+++b8LFVfj8Gu3FWJB38b-EDQ,Dubliner,0.75,Rokerij,1.0
+52,1dbluwhDAd8EoBJOMtiSag+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,1.0,Feeney's Restaurant and Bar,0.6
+53,1dbluwhDAd8EoBJOMtiSag+++kc-rnN-ndnFTdHG4TfIgeQ,Dubliner,1.0,Rokerij,0.8
+54,1dbluwhDAd8EoBJOMtiSag+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,0.75,Rokerij,0.8
+55,1dbluwhDAd8EoBJOMtiSag+++KUTTubStiNYigQpi3L9-3w,Dubliner,0.75,Feeney's Restaurant and Bar,0.75
+56,1dbluwhDAd8EoBJOMtiSag+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.75,Rokerij,0.8
+57,1dbluwhDAd8EoBJOMtiSag+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.75,Rokerij,1.0
+58,1dbluwhDAd8EoBJOMtiSag+++R4eLJKwG9yQ44vfwaUHS3g,Feeney's Restaurant and Bar,0.75,Rokerij,0.8
+59,1dbluwhDAd8EoBJOMtiSag+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.6,Feeney's Restaurant and Bar,0.75
+60,1dbluwhDAd8EoBJOMtiSag+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.6,Rokerij,0.8
+61,1dbluwhDAd8EoBJOMtiSag+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.75,Feeney's Restaurant and Bar,0.75
+62,1dbluwhDAd8EoBJOMtiSag+++YQJeEVDhR5uu1WPkMlN_cg,Dubliner,1.0,Feeney's Restaurant and Bar,0.75
+63,1VIuDm-PsXw7Yfd98UdYpQ+++2VhVWgmjlJ0V9S9V0S3buA,OHSO Brewery - Paradise Valley,1.0,Paradise Valley Burger Company,0.8
+64,1VIuDm-PsXw7Yfd98UdYpQ+++2VhVWgmjlJ0V9S9V0S3buA,Dubliner,0.6,Paradise Valley Burger Company,0.8
+65,1VIuDm-PsXw7Yfd98UdYpQ+++2VhVWgmjlJ0V9S9V0S3buA,Dubliner,0.6,OHSO Brewery - Paradise Valley,1.0
+66,1VIuDm-PsXw7Yfd98UdYpQ+++92e_B3VDY5TqxVYsKuNzKg,Dubliner,0.8,OHSO Brewery - Paradise Valley,0.75
+67,1VIuDm-PsXw7Yfd98UdYpQ+++CwLEKnnODT2zSpqzsLojFw,Dubliner,1.0,OHSO Brewery - Paradise Valley,0.75
+68,1VIuDm-PsXw7Yfd98UdYpQ+++e8lMbWebomEsTgr-5CGjMQ,OHSO Brewery - Paradise Valley,0.6,Paradise Valley Burger Company,0.8
+69,1VIuDm-PsXw7Yfd98UdYpQ+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.4,Paradise Valley Burger Company,0.8
+70,1VIuDm-PsXw7Yfd98UdYpQ+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.4,OHSO Brewery - Paradise Valley,0.6
+71,1VIuDm-PsXw7Yfd98UdYpQ+++eAJ3Ip0vh-zuk_BmcmchYA,Dubliner,0.6,Paradise Valley Burger Company,0.8
+72,1VIuDm-PsXw7Yfd98UdYpQ+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,0.8,Paradise Valley Burger Company,0.6
+73,1VIuDm-PsXw7Yfd98UdYpQ+++GK07iEy8UllYo113DlNnww,Dubliner,0.4,Paradise Valley Burger Company,0.8
+74,1VIuDm-PsXw7Yfd98UdYpQ+++HkN6cx0EWOrnLIa4YCrnmg,Dubliner,0.4,OHSO Brewery - Paradise Valley,1.0
+75,1VIuDm-PsXw7Yfd98UdYpQ+++I23Esl07aqjDS8AANKn1-w,Dubliner,0.2,OHSO Brewery - Paradise Valley,0.6
+76,1VIuDm-PsXw7Yfd98UdYpQ+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,0.8,Paradise Valley Burger Company,1.0
+77,1VIuDm-PsXw7Yfd98UdYpQ+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,0.8,OHSO Brewery - Paradise Valley,0.6
+78,1VIuDm-PsXw7Yfd98UdYpQ+++KUTTubStiNYigQpi3L9-3w,Dubliner,0.8,Paradise Valley Burger Company,0.8
+79,1VIuDm-PsXw7Yfd98UdYpQ+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.8,Paradise Valley Burger Company,0.8
+80,1VIuDm-PsXw7Yfd98UdYpQ+++OaN8UG7flab58O525eRsgQ,Dubliner,0.2,Paradise Valley Burger Company,1.0
+81,1VIuDm-PsXw7Yfd98UdYpQ+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,0.4,OHSO Brewery - Paradise Valley,0.3333
+82,1VIuDm-PsXw7Yfd98UdYpQ+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.8,Paradise Valley Burger Company,0.6
+83,1VIuDm-PsXw7Yfd98UdYpQ+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.8,OHSO Brewery - Paradise Valley,0.75
+84,1VIuDm-PsXw7Yfd98UdYpQ+++S0YQ47x5g8SfZe87KGvsJw,OHSO Brewery - Paradise Valley,0.75,Paradise Valley Burger Company,0.6
+85,1VIuDm-PsXw7Yfd98UdYpQ+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.8,Paradise Valley Burger Company,0.6
+86,1VIuDm-PsXw7Yfd98UdYpQ+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,0.8,Paradise Valley Burger Company,1.0
+87,1VIuDm-PsXw7Yfd98UdYpQ+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.8,Paradise Valley Burger Company,0.8
+88,2VhVWgmjlJ0V9S9V0S3buA+++92e_B3VDY5TqxVYsKuNzKg,OHSO Brewery - Paradise Valley,0.75,Feeney's Restaurant and Bar,1.0
+89,2VhVWgmjlJ0V9S9V0S3buA+++92e_B3VDY5TqxVYsKuNzKg,Dubliner,0.75,Feeney's Restaurant and Bar,1.0
+90,2VhVWgmjlJ0V9S9V0S3buA+++92e_B3VDY5TqxVYsKuNzKg,Dubliner,0.75,OHSO Brewery - Paradise Valley,0.75
+91,2VhVWgmjlJ0V9S9V0S3buA+++b8LFVfj8Gu3FWJB38b-EDQ,Dubliner,0.75,Feeney's Restaurant and Bar,1.0
+92,2VhVWgmjlJ0V9S9V0S3buA+++C1u8tkqX3X7nPB3tjKCqXQ,Dubliner,0.75,Original Breakfast House,0.5
+93,2VhVWgmjlJ0V9S9V0S3buA+++CwLEKnnODT2zSpqzsLojFw,Dubliner,0.6,OHSO Brewery - Paradise Valley,0.75
+94,2VhVWgmjlJ0V9S9V0S3buA+++e8lMbWebomEsTgr-5CGjMQ,Paradise Valley Burger Company,1.0,Original Breakfast House,0.8
+95,2VhVWgmjlJ0V9S9V0S3buA+++e8lMbWebomEsTgr-5CGjMQ,OHSO Brewery - Paradise Valley,0.6,Paradise Valley Burger Company,1.0
+96,2VhVWgmjlJ0V9S9V0S3buA+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.6667,Original Breakfast House,0.8
+97,2VhVWgmjlJ0V9S9V0S3buA+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.6667,OHSO Brewery - Paradise Valley,0.6
+98,2VhVWgmjlJ0V9S9V0S3buA+++e8lMbWebomEsTgr-5CGjMQ,OHSO Brewery - Paradise Valley,0.6,Original Breakfast House,0.8
+99,2VhVWgmjlJ0V9S9V0S3buA+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.6667,Paradise Valley Burger Company,1.0
+100,2VhVWgmjlJ0V9S9V0S3buA+++eAJ3Ip0vh-zuk_BmcmchYA,Dubliner,1.0,Paradise Valley Burger Company,1.0
+101,2VhVWgmjlJ0V9S9V0S3buA+++ffPY_bHX8vLebHu8LBEqfg,Paradise Valley Burger Company,0.75,Original Breakfast House,1.0
+102,2VhVWgmjlJ0V9S9V0S3buA+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,0.75,Paradise Valley Burger Company,0.75
+103,2VhVWgmjlJ0V9S9V0S3buA+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,0.75,Original Breakfast House,1.0
+104,2VhVWgmjlJ0V9S9V0S3buA+++GK07iEy8UllYo113DlNnww,Dubliner,0.6667,Paradise Valley Burger Company,1.0
+105,2VhVWgmjlJ0V9S9V0S3buA+++HkN6cx0EWOrnLIa4YCrnmg,Dubliner,0.6667,OHSO Brewery - Paradise Valley,1.0
+106,2VhVWgmjlJ0V9S9V0S3buA+++I23Esl07aqjDS8AANKn1-w,Dubliner,0.3333,OHSO Brewery - Paradise Valley,0.6
+107,2VhVWgmjlJ0V9S9V0S3buA+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,1.0,Feeney's Restaurant and Bar,0.8
+108,2VhVWgmjlJ0V9S9V0S3buA+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,0.75,Paradise Valley Burger Company,0.8
+109,2VhVWgmjlJ0V9S9V0S3buA+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,0.75,OHSO Brewery - Paradise Valley,0.6
+110,2VhVWgmjlJ0V9S9V0S3buA+++KUTTubStiNYigQpi3L9-3w,Paradise Valley Burger Company,1.0,Feeney's Restaurant and Bar,1.0
+111,2VhVWgmjlJ0V9S9V0S3buA+++KUTTubStiNYigQpi3L9-3w,Dubliner,0.75,Feeney's Restaurant and Bar,1.0
+112,2VhVWgmjlJ0V9S9V0S3buA+++KUTTubStiNYigQpi3L9-3w,Dubliner,0.75,Paradise Valley Burger Company,1.0
+113,2VhVWgmjlJ0V9S9V0S3buA+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.75,Paradise Valley Burger Company,1.0
+114,2VhVWgmjlJ0V9S9V0S3buA+++Mt_hbOLexq5NUCaUXqhHgA,Dubliner,1.0,Original Breakfast House,1.0
+115,2VhVWgmjlJ0V9S9V0S3buA+++OaN8UG7flab58O525eRsgQ,Dubliner,0.3333,Paradise Valley Burger Company,0.8
+116,2VhVWgmjlJ0V9S9V0S3buA+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,0.6667,OHSO Brewery - Paradise Valley,0.3333
+117,2VhVWgmjlJ0V9S9V0S3buA+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,0.6667,Original Breakfast House,1.0
+118,2VhVWgmjlJ0V9S9V0S3buA+++OK9t7c_Ew8iB8AwkM4r0Jg,OHSO Brewery - Paradise Valley,0.3333,Original Breakfast House,1.0
+119,2VhVWgmjlJ0V9S9V0S3buA+++q2B124odCQB5SWTrdbXPZw,Dubliner,1.0,Original Breakfast House,1.0
+120,2VhVWgmjlJ0V9S9V0S3buA+++qb9kvGuavKng9adYvx-RMg,Paradise Valley Burger Company,0.75,Original Breakfast House,0.75
+121,2VhVWgmjlJ0V9S9V0S3buA+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.75,Original Breakfast House,0.75
+122,2VhVWgmjlJ0V9S9V0S3buA+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.75,Paradise Valley Burger Company,0.75
+123,2VhVWgmjlJ0V9S9V0S3buA+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.6,Feeney's Restaurant and Bar,1.0
+124,2VhVWgmjlJ0V9S9V0S3buA+++rWz-qRVQPtOs2pH5GSA71g,Dubliner,0.6,Original Breakfast House,0.25
+125,2VhVWgmjlJ0V9S9V0S3buA+++S0YQ47x5g8SfZe87KGvsJw,OHSO Brewery - Paradise Valley,0.75,Paradise Valley Burger Company,0.75
+126,2VhVWgmjlJ0V9S9V0S3buA+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.75,OHSO Brewery - Paradise Valley,0.75
+127,2VhVWgmjlJ0V9S9V0S3buA+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.75,Paradise Valley Burger Company,0.75
+128,2VhVWgmjlJ0V9S9V0S3buA+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,0.75,Paradise Valley Burger Company,0.8
+129,2VhVWgmjlJ0V9S9V0S3buA+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.75,Feeney's Restaurant and Bar,1.0
+130,2VhVWgmjlJ0V9S9V0S3buA+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.75,Paradise Valley Burger Company,1.0
+131,2VhVWgmjlJ0V9S9V0S3buA+++u0JoB0Vm1ZhwF8nysxPnfg,Paradise Valley Burger Company,1.0,Feeney's Restaurant and Bar,1.0
+132,2VhVWgmjlJ0V9S9V0S3buA+++YQJeEVDhR5uu1WPkMlN_cg,Dubliner,1.0,Feeney's Restaurant and Bar,1.0
+133,6U-RmQAW1BB_QdO_6emA0w+++92e_B3VDY5TqxVYsKuNzKg,Dubliner,0.75,Rokerij,0.25
+134,6U-RmQAW1BB_QdO_6emA0w+++b8LFVfj8Gu3FWJB38b-EDQ,Dubliner,0.75,Rokerij,0.25
+135,6U-RmQAW1BB_QdO_6emA0w+++kc-rnN-ndnFTdHG4TfIgeQ,Dubliner,1.0,Rokerij,0.2
+136,6U-RmQAW1BB_QdO_6emA0w+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,0.75,Rokerij,0.2
+137,6U-RmQAW1BB_QdO_6emA0w+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.75,Rokerij,0.2
+138,6U-RmQAW1BB_QdO_6emA0w+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.75,Rokerij,0.25
+139,6U-RmQAW1BB_QdO_6emA0w+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.6,Rokerij,0.2
+140,92e_B3VDY5TqxVYsKuNzKg+++b8LFVfj8Gu3FWJB38b-EDQ,Feeney's Restaurant and Bar,1.0,Rokerij,1.0
+141,92e_B3VDY5TqxVYsKuNzKg+++b8LFVfj8Gu3FWJB38b-EDQ,Dubliner,1.0,Feeney's Restaurant and Bar,1.0
+142,92e_B3VDY5TqxVYsKuNzKg+++b8LFVfj8Gu3FWJB38b-EDQ,Dubliner,1.0,Rokerij,1.0
+143,92e_B3VDY5TqxVYsKuNzKg+++b8LFVfj8Gu3FWJB38b-EDQ,Chino Bandido,1.0,Rokerij,1.0
+144,92e_B3VDY5TqxVYsKuNzKg+++b8LFVfj8Gu3FWJB38b-EDQ,Chino Bandido,1.0,Feeney's Restaurant and Bar,1.0
+145,92e_B3VDY5TqxVYsKuNzKg+++b8LFVfj8Gu3FWJB38b-EDQ,Dubliner,1.0,Chino Bandido,1.0
+146,92e_B3VDY5TqxVYsKuNzKg+++cRQ3UCd1NKi2jxHZpvZlTQ,Dubliner,0.75,Chino Bandido,1.0
+147,92e_B3VDY5TqxVYsKuNzKg+++CwLEKnnODT2zSpqzsLojFw,Dubliner,0.8,OHSO Brewery - Paradise Valley,1.0
+148,92e_B3VDY5TqxVYsKuNzKg+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.5,Chino Bandido,0.8
+149,92e_B3VDY5TqxVYsKuNzKg+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.8
+150,92e_B3VDY5TqxVYsKuNzKg+++e8lMbWebomEsTgr-5CGjMQ,OHSO Brewery - Paradise Valley,0.8,Chino Bandido,0.8
+151,92e_B3VDY5TqxVYsKuNzKg+++eAJ3Ip0vh-zuk_BmcmchYA,Dubliner,0.75,Chino Bandido,1.0
+152,92e_B3VDY5TqxVYsKuNzKg+++ePfhvRM-deQgMduESHRWDg,Dubliner,1.0,Cibo,0.8
+153,92e_B3VDY5TqxVYsKuNzKg+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,1.0,Chino Bandido,0.8
+154,92e_B3VDY5TqxVYsKuNzKg+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,1.0,Yard House,1.0
+155,92e_B3VDY5TqxVYsKuNzKg+++ffPY_bHX8vLebHu8LBEqfg,Chino Bandido,0.8,Yard House,1.0
+156,92e_B3VDY5TqxVYsKuNzKg+++G2OheOuxzSC9B5SbDM6NaA,Dubliner,0.8,Yard House,1.0
+157,92e_B3VDY5TqxVYsKuNzKg+++GK07iEy8UllYo113DlNnww,Dubliner,0.5,Yard House,0.75
+158,92e_B3VDY5TqxVYsKuNzKg+++GK07iEy8UllYo113DlNnww,Dubliner,0.5,Cibo,0.6
+159,92e_B3VDY5TqxVYsKuNzKg+++GK07iEy8UllYo113DlNnww,Cibo,0.6,Yard House,0.75
+160,92e_B3VDY5TqxVYsKuNzKg+++HkN6cx0EWOrnLIa4YCrnmg,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.75
+161,92e_B3VDY5TqxVYsKuNzKg+++I23Esl07aqjDS8AANKn1-w,Dubliner,0.25,OHSO Brewery - Paradise Valley,0.8
+162,92e_B3VDY5TqxVYsKuNzKg+++iDlkZO2iILS8Jwfdy7DP9A,Chino Bandido,0.5,Feeney's Restaurant and Bar,0.8
+163,92e_B3VDY5TqxVYsKuNzKg+++iDlkZO2iILS8Jwfdy7DP9A,Chino Bandido,0.5,Yard House,1.0
+164,92e_B3VDY5TqxVYsKuNzKg+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,0.75,Yard House,1.0
+165,92e_B3VDY5TqxVYsKuNzKg+++iDlkZO2iILS8Jwfdy7DP9A,Yard House,1.0,Feeney's Restaurant and Bar,0.8
+166,92e_B3VDY5TqxVYsKuNzKg+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,0.75,Feeney's Restaurant and Bar,0.8
+167,92e_B3VDY5TqxVYsKuNzKg+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,0.75,Chino Bandido,0.5
+168,92e_B3VDY5TqxVYsKuNzKg+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,1.0,Chino Bandido,0.75
+169,92e_B3VDY5TqxVYsKuNzKg+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,1.0,Cibo,0.8
+170,92e_B3VDY5TqxVYsKuNzKg+++jOd8nrsgnRrh-gNKgz_zuw,Cibo,0.8,Chino Bandido,0.75
+171,92e_B3VDY5TqxVYsKuNzKg+++kc-rnN-ndnFTdHG4TfIgeQ,Cibo,1.0,Rokerij,0.8
+172,92e_B3VDY5TqxVYsKuNzKg+++kc-rnN-ndnFTdHG4TfIgeQ,Dubliner,0.75,Rokerij,0.8
+173,92e_B3VDY5TqxVYsKuNzKg+++kc-rnN-ndnFTdHG4TfIgeQ,Dubliner,0.75,Cibo,1.0
+174,92e_B3VDY5TqxVYsKuNzKg+++kJsMFBdQ_Do67u3lpvaujA,OHSO Brewery - Paradise Valley,0.8,Rokerij,0.8
+175,92e_B3VDY5TqxVYsKuNzKg+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,1.0,Rokerij,0.8
+176,92e_B3VDY5TqxVYsKuNzKg+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,1.0,OHSO Brewery - Paradise Valley,0.8
+177,92e_B3VDY5TqxVYsKuNzKg+++kpZWl_uXA262ji6wt6phpg,Dubliner,0.5,Yard House,0.8
+178,92e_B3VDY5TqxVYsKuNzKg+++KUTTubStiNYigQpi3L9-3w,Dubliner,1.0,Feeney's Restaurant and Bar,1.0
+179,92e_B3VDY5TqxVYsKuNzKg+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Yard House,1.0
+180,92e_B3VDY5TqxVYsKuNzKg+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Chino Bandido,1.0
+181,92e_B3VDY5TqxVYsKuNzKg+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Cibo,0.8
+182,92e_B3VDY5TqxVYsKuNzKg+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Rokerij,0.8
+183,92e_B3VDY5TqxVYsKuNzKg+++maK3UBQczh33NuDjBYeHrA,Cibo,0.8,Yard House,1.0
+184,92e_B3VDY5TqxVYsKuNzKg+++maK3UBQczh33NuDjBYeHrA,Cibo,0.8,Rokerij,0.8
+185,92e_B3VDY5TqxVYsKuNzKg+++maK3UBQczh33NuDjBYeHrA,Cibo,0.8,Chino Bandido,1.0
+186,92e_B3VDY5TqxVYsKuNzKg+++maK3UBQczh33NuDjBYeHrA,Chino Bandido,1.0,Yard House,1.0
+187,92e_B3VDY5TqxVYsKuNzKg+++maK3UBQczh33NuDjBYeHrA,Chino Bandido,1.0,Rokerij,0.8
+188,92e_B3VDY5TqxVYsKuNzKg+++maK3UBQczh33NuDjBYeHrA,Yard House,1.0,Rokerij,0.8
+189,92e_B3VDY5TqxVYsKuNzKg+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.25
+190,92e_B3VDY5TqxVYsKuNzKg+++qb9kvGuavKng9adYvx-RMg,Dubliner,1.0,Rokerij,1.0
+191,92e_B3VDY5TqxVYsKuNzKg+++R4eLJKwG9yQ44vfwaUHS3g,Feeney's Restaurant and Bar,1.0,Rokerij,0.8
+192,92e_B3VDY5TqxVYsKuNzKg+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Feeney's Restaurant and Bar,1.0
+193,92e_B3VDY5TqxVYsKuNzKg+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Rokerij,0.8
+194,92e_B3VDY5TqxVYsKuNzKg+++R4eLJKwG9yQ44vfwaUHS3g,Cibo,0.8,Feeney's Restaurant and Bar,1.0
+195,92e_B3VDY5TqxVYsKuNzKg+++R4eLJKwG9yQ44vfwaUHS3g,Cibo,0.8,Rokerij,0.8
+196,92e_B3VDY5TqxVYsKuNzKg+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Cibo,0.8
+197,92e_B3VDY5TqxVYsKuNzKg+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.75,Yard House,1.0
+198,92e_B3VDY5TqxVYsKuNzKg+++S0YQ47x5g8SfZe87KGvsJw,OHSO Brewery - Paradise Valley,1.0,Cibo,1.0
+199,92e_B3VDY5TqxVYsKuNzKg+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Cibo,1.0
+200,92e_B3VDY5TqxVYsKuNzKg+++S0YQ47x5g8SfZe87KGvsJw,OHSO Brewery - Paradise Valley,1.0,Yard House,0.75
+201,92e_B3VDY5TqxVYsKuNzKg+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,OHSO Brewery - Paradise Valley,1.0
+202,92e_B3VDY5TqxVYsKuNzKg+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Yard House,0.75
+203,92e_B3VDY5TqxVYsKuNzKg+++S0YQ47x5g8SfZe87KGvsJw,Cibo,1.0,Yard House,0.75
+204,92e_B3VDY5TqxVYsKuNzKg+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Chino Bandido,0.8
+205,92e_B3VDY5TqxVYsKuNzKg+++TryfbZaaGtedncOMq9k86g,Chino Bandido,0.8,Yard House,1.0
+206,92e_B3VDY5TqxVYsKuNzKg+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Yard House,1.0
+207,92e_B3VDY5TqxVYsKuNzKg+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Chino Bandido,1.0
+208,92e_B3VDY5TqxVYsKuNzKg+++u0JoB0Vm1ZhwF8nysxPnfg,Cibo,1.0,Feeney's Restaurant and Bar,1.0
+209,92e_B3VDY5TqxVYsKuNzKg+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Cibo,1.0
+210,92e_B3VDY5TqxVYsKuNzKg+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Feeney's Restaurant and Bar,1.0
+211,92e_B3VDY5TqxVYsKuNzKg+++u0JoB0Vm1ZhwF8nysxPnfg,Cibo,1.0,Chino Bandido,1.0
+212,92e_B3VDY5TqxVYsKuNzKg+++u0JoB0Vm1ZhwF8nysxPnfg,Chino Bandido,1.0,Feeney's Restaurant and Bar,1.0
+213,92e_B3VDY5TqxVYsKuNzKg+++U8LUyd8gYns7IIRmXIzPbA,Dubliner,0.75,Cibo,0.8
+214,92e_B3VDY5TqxVYsKuNzKg+++YQJeEVDhR5uu1WPkMlN_cg,Dubliner,0.75,Feeney's Restaurant and Bar,1.0
+215,AjrMEX47GaTeFw36vfVS-A+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.4,Valle Luna,1.0
+216,AjrMEX47GaTeFw36vfVS-A+++ePfhvRM-deQgMduESHRWDg,Dubliner,0.8,Valle Luna,1.0
+217,AjrMEX47GaTeFw36vfVS-A+++KUTTubStiNYigQpi3L9-3w,Dubliner,0.8,Valle Luna,0.8
+218,AjrMEX47GaTeFw36vfVS-A+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.6,Valle Luna,0.8
+219,AjrMEX47GaTeFw36vfVS-A+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.8,Valle Luna,1.0
+220,AjrMEX47GaTeFw36vfVS-A+++TryfbZaaGtedncOMq9k86g,Dubliner,0.8,Valle Luna,0.8
+221,AjrMEX47GaTeFw36vfVS-A+++YSvMlcF2k6KtUCedgfsYwg,Dubliner,0.2,Valle Luna,0.8
+222,b8LFVfj8Gu3FWJB38b-EDQ+++cRQ3UCd1NKi2jxHZpvZlTQ,Dubliner,0.75,Chino Bandido,1.0
+223,b8LFVfj8Gu3FWJB38b-EDQ+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.5,Chino Bandido,0.8
+224,b8LFVfj8Gu3FWJB38b-EDQ+++eAJ3Ip0vh-zuk_BmcmchYA,Dubliner,0.75,Chino Bandido,1.0
+225,b8LFVfj8Gu3FWJB38b-EDQ+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,1.0,Chino Bandido,0.8
+226,b8LFVfj8Gu3FWJB38b-EDQ+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,0.75,Feeney's Restaurant and Bar,0.8
+227,b8LFVfj8Gu3FWJB38b-EDQ+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,0.75,Chino Bandido,0.5
+228,b8LFVfj8Gu3FWJB38b-EDQ+++iDlkZO2iILS8Jwfdy7DP9A,Chino Bandido,0.5,Feeney's Restaurant and Bar,0.8
+229,b8LFVfj8Gu3FWJB38b-EDQ+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,1.0,Chino Bandido,0.75
+230,b8LFVfj8Gu3FWJB38b-EDQ+++kc-rnN-ndnFTdHG4TfIgeQ,Dubliner,0.75,Rokerij,0.8
+231,b8LFVfj8Gu3FWJB38b-EDQ+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,1.0,Rokerij,0.8
+232,b8LFVfj8Gu3FWJB38b-EDQ+++KUTTubStiNYigQpi3L9-3w,Dubliner,1.0,Feeney's Restaurant and Bar,1.0
+233,b8LFVfj8Gu3FWJB38b-EDQ+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Chino Bandido,1.0
+234,b8LFVfj8Gu3FWJB38b-EDQ+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Rokerij,0.8
+235,b8LFVfj8Gu3FWJB38b-EDQ+++maK3UBQczh33NuDjBYeHrA,Chino Bandido,1.0,Rokerij,0.8
+236,b8LFVfj8Gu3FWJB38b-EDQ+++qb9kvGuavKng9adYvx-RMg,Dubliner,1.0,Rokerij,1.0
+237,b8LFVfj8Gu3FWJB38b-EDQ+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Rokerij,0.8
+238,b8LFVfj8Gu3FWJB38b-EDQ+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Feeney's Restaurant and Bar,1.0
+239,b8LFVfj8Gu3FWJB38b-EDQ+++R4eLJKwG9yQ44vfwaUHS3g,Feeney's Restaurant and Bar,1.0,Rokerij,0.8
+240,b8LFVfj8Gu3FWJB38b-EDQ+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Chino Bandido,0.8
+241,b8LFVfj8Gu3FWJB38b-EDQ+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Chino Bandido,1.0
+242,b8LFVfj8Gu3FWJB38b-EDQ+++u0JoB0Vm1ZhwF8nysxPnfg,Chino Bandido,1.0,Feeney's Restaurant and Bar,1.0
+243,b8LFVfj8Gu3FWJB38b-EDQ+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Feeney's Restaurant and Bar,1.0
+244,b8LFVfj8Gu3FWJB38b-EDQ+++YQJeEVDhR5uu1WPkMlN_cg,Dubliner,0.75,Feeney's Restaurant and Bar,1.0
+245,C1u8tkqX3X7nPB3tjKCqXQ+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.5,Original Breakfast House,0.4
+246,C1u8tkqX3X7nPB3tjKCqXQ+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,1.0,Original Breakfast House,0.5
+247,C1u8tkqX3X7nPB3tjKCqXQ+++Mt_hbOLexq5NUCaUXqhHgA,Dubliner,0.75,Original Breakfast House,0.5
+248,C1u8tkqX3X7nPB3tjKCqXQ+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,0.5,Original Breakfast House,0.5
+249,C1u8tkqX3X7nPB3tjKCqXQ+++q2B124odCQB5SWTrdbXPZw,Dubliner,0.75,Original Breakfast House,0.5
+250,C1u8tkqX3X7nPB3tjKCqXQ+++qb9kvGuavKng9adYvx-RMg,Dubliner,1.0,Original Breakfast House,0.6667
+251,C1u8tkqX3X7nPB3tjKCqXQ+++rWz-qRVQPtOs2pH5GSA71g,Dubliner,0.8,Original Breakfast House,0.5
+252,cRQ3UCd1NKi2jxHZpvZlTQ+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.6667,Chino Bandido,0.8
+253,cRQ3UCd1NKi2jxHZpvZlTQ+++eAJ3Ip0vh-zuk_BmcmchYA,Dubliner,1.0,Chino Bandido,1.0
+254,cRQ3UCd1NKi2jxHZpvZlTQ+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,0.75,Chino Bandido,0.8
+255,cRQ3UCd1NKi2jxHZpvZlTQ+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,1.0,Chino Bandido,0.5
+256,cRQ3UCd1NKi2jxHZpvZlTQ+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,0.75,Chino Bandido,0.75
+257,cRQ3UCd1NKi2jxHZpvZlTQ+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.75,Chino Bandido,1.0
+258,cRQ3UCd1NKi2jxHZpvZlTQ+++TryfbZaaGtedncOMq9k86g,Dubliner,0.75,Chino Bandido,0.8
+259,cRQ3UCd1NKi2jxHZpvZlTQ+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.75,Chino Bandido,1.0
+260,CwLEKnnODT2zSpqzsLojFw+++e8lMbWebomEsTgr-5CGjMQ,Dubliner,0.4,OHSO Brewery - Paradise Valley,0.8
+261,CwLEKnnODT2zSpqzsLojFw+++HkN6cx0EWOrnLIa4YCrnmg,Dubliner,0.4,OHSO Brewery - Paradise Valley,0.75
+262,CwLEKnnODT2zSpqzsLojFw+++I23Esl07aqjDS8AANKn1-w,Dubliner,0.2,OHSO Brewery - Paradise Valley,0.8
+263,CwLEKnnODT2zSpqzsLojFw+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,0.8,OHSO Brewery - Paradise Valley,0.8
+264,CwLEKnnODT2zSpqzsLojFw+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,0.4,OHSO Brewery - Paradise Valley,0.25
+265,CwLEKnnODT2zSpqzsLojFw+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.8,OHSO Brewery - Paradise Valley,1.0
+266,e8lMbWebomEsTgr-5CGjMQ+++eAJ3Ip0vh-zuk_BmcmchYA,Paradise Valley Burger Company,1.0,Chino Bandido,0.8
+267,e8lMbWebomEsTgr-5CGjMQ+++eAJ3Ip0vh-zuk_BmcmchYA,Dubliner,0.6667,Paradise Valley Burger Company,1.0
+268,e8lMbWebomEsTgr-5CGjMQ+++eAJ3Ip0vh-zuk_BmcmchYA,Dubliner,0.6667,Chino Bandido,0.8
+269,e8lMbWebomEsTgr-5CGjMQ+++ePfhvRM-deQgMduESHRWDg,Dubliner,0.5,Valle Luna,1.0
+270,e8lMbWebomEsTgr-5CGjMQ+++ffPY_bHX8vLebHu8LBEqfg,Paradise Valley Burger Company,0.75,Chino Bandido,1.0
+271,e8lMbWebomEsTgr-5CGjMQ+++ffPY_bHX8vLebHu8LBEqfg,Chino Bandido,1.0,Original Breakfast House,0.8
+272,e8lMbWebomEsTgr-5CGjMQ+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,0.5,Original Breakfast House,0.8
+273,e8lMbWebomEsTgr-5CGjMQ+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,0.5,Chino Bandido,1.0
+274,e8lMbWebomEsTgr-5CGjMQ+++ffPY_bHX8vLebHu8LBEqfg,Paradise Valley Burger Company,0.75,Original Breakfast House,0.8
+275,e8lMbWebomEsTgr-5CGjMQ+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,0.5,Paradise Valley Burger Company,0.75
+276,e8lMbWebomEsTgr-5CGjMQ+++GK07iEy8UllYo113DlNnww,Dubliner,1.0,Paradise Valley Burger Company,1.0
+277,e8lMbWebomEsTgr-5CGjMQ+++HkN6cx0EWOrnLIa4YCrnmg,Dubliner,1.0,OHSO Brewery - Paradise Valley,0.6
+278,e8lMbWebomEsTgr-5CGjMQ+++I23Esl07aqjDS8AANKn1-w,Dubliner,0.5,OHSO Brewery - Paradise Valley,1.0
+279,e8lMbWebomEsTgr-5CGjMQ+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,0.6667,Chino Bandido,0.4
+280,e8lMbWebomEsTgr-5CGjMQ+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,0.5,Chino Bandido,0.6
+281,e8lMbWebomEsTgr-5CGjMQ+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,0.5,Paradise Valley Burger Company,0.8
+282,e8lMbWebomEsTgr-5CGjMQ+++jOd8nrsgnRrh-gNKgz_zuw,Paradise Valley Burger Company,0.8,Chino Bandido,0.6
+283,e8lMbWebomEsTgr-5CGjMQ+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,0.5,OHSO Brewery - Paradise Valley,1.0
+284,e8lMbWebomEsTgr-5CGjMQ+++KUTTubStiNYigQpi3L9-3w,Paradise Valley Burger Company,1.0,Valle Luna,0.8
+285,e8lMbWebomEsTgr-5CGjMQ+++KUTTubStiNYigQpi3L9-3w,Dubliner,0.5,Paradise Valley Burger Company,1.0
+286,e8lMbWebomEsTgr-5CGjMQ+++KUTTubStiNYigQpi3L9-3w,Dubliner,0.5,Valle Luna,0.8
+287,e8lMbWebomEsTgr-5CGjMQ+++maK3UBQczh33NuDjBYeHrA,Paradise Valley Burger Company,1.0,Chino Bandido,0.8
+288,e8lMbWebomEsTgr-5CGjMQ+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.5,Chino Bandido,0.8
+289,e8lMbWebomEsTgr-5CGjMQ+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.5,Paradise Valley Burger Company,1.0
+290,e8lMbWebomEsTgr-5CGjMQ+++Mt_hbOLexq5NUCaUXqhHgA,Dubliner,0.6667,Original Breakfast House,0.8
+291,e8lMbWebomEsTgr-5CGjMQ+++OaN8UG7flab58O525eRsgQ,Dubliner,0.5,Paradise Valley Burger Company,0.8
+292,e8lMbWebomEsTgr-5CGjMQ+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,1.0,OHSO Brewery - Paradise Valley,0.2
+293,e8lMbWebomEsTgr-5CGjMQ+++OK9t7c_Ew8iB8AwkM4r0Jg,OHSO Brewery - Paradise Valley,0.2,Original Breakfast House,0.8
+294,e8lMbWebomEsTgr-5CGjMQ+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,1.0,Original Breakfast House,0.8
+295,e8lMbWebomEsTgr-5CGjMQ+++q2B124odCQB5SWTrdbXPZw,Dubliner,0.6667,Original Breakfast House,0.8
+296,e8lMbWebomEsTgr-5CGjMQ+++qb9kvGuavKng9adYvx-RMg,Paradise Valley Burger Company,0.75,Original Breakfast House,0.6
+297,e8lMbWebomEsTgr-5CGjMQ+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.5,Original Breakfast House,0.6
+298,e8lMbWebomEsTgr-5CGjMQ+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.5,Paradise Valley Burger Company,0.75
+299,e8lMbWebomEsTgr-5CGjMQ+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.6667,Valle Luna,0.8
+300,e8lMbWebomEsTgr-5CGjMQ+++rWz-qRVQPtOs2pH5GSA71g,Dubliner,0.4,Original Breakfast House,0.2
+301,e8lMbWebomEsTgr-5CGjMQ+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.5,Valle Luna,1.0
+302,e8lMbWebomEsTgr-5CGjMQ+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.5,Paradise Valley Burger Company,0.75
+303,e8lMbWebomEsTgr-5CGjMQ+++S0YQ47x5g8SfZe87KGvsJw,OHSO Brewery - Paradise Valley,0.8,Valle Luna,1.0
+304,e8lMbWebomEsTgr-5CGjMQ+++S0YQ47x5g8SfZe87KGvsJw,OHSO Brewery - Paradise Valley,0.8,Paradise Valley Burger Company,0.75
+305,e8lMbWebomEsTgr-5CGjMQ+++S0YQ47x5g8SfZe87KGvsJw,Paradise Valley Burger Company,0.75,Valle Luna,1.0
+306,e8lMbWebomEsTgr-5CGjMQ+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.8
+307,e8lMbWebomEsTgr-5CGjMQ+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,0.5,Paradise Valley Burger Company,0.8
+308,e8lMbWebomEsTgr-5CGjMQ+++TryfbZaaGtedncOMq9k86g,Dubliner,0.5,Valle Luna,0.8
+309,e8lMbWebomEsTgr-5CGjMQ+++TryfbZaaGtedncOMq9k86g,Dubliner,0.5,Chino Bandido,1.0
+310,e8lMbWebomEsTgr-5CGjMQ+++TryfbZaaGtedncOMq9k86g,Chino Bandido,1.0,Valle Luna,0.8
+311,e8lMbWebomEsTgr-5CGjMQ+++u0JoB0Vm1ZhwF8nysxPnfg,Paradise Valley Burger Company,1.0,Chino Bandido,0.8
+312,e8lMbWebomEsTgr-5CGjMQ+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.5,Chino Bandido,0.8
+313,e8lMbWebomEsTgr-5CGjMQ+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.5,Paradise Valley Burger Company,1.0
+314,e8lMbWebomEsTgr-5CGjMQ+++YSvMlcF2k6KtUCedgfsYwg,Dubliner,0.5,Valle Luna,0.8
+315,eAJ3Ip0vh-zuk_BmcmchYA+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,0.75,Paradise Valley Burger Company,0.75
+316,eAJ3Ip0vh-zuk_BmcmchYA+++ffPY_bHX8vLebHu8LBEqfg,Dubliner,0.75,Chino Bandido,0.8
+317,eAJ3Ip0vh-zuk_BmcmchYA+++ffPY_bHX8vLebHu8LBEqfg,Paradise Valley Burger Company,0.75,Chino Bandido,0.8
+318,eAJ3Ip0vh-zuk_BmcmchYA+++GK07iEy8UllYo113DlNnww,Dubliner,0.6667,Paradise Valley Burger Company,1.0
+319,eAJ3Ip0vh-zuk_BmcmchYA+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,1.0,Chino Bandido,0.5
+320,eAJ3Ip0vh-zuk_BmcmchYA+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,0.75,Chino Bandido,0.75
+321,eAJ3Ip0vh-zuk_BmcmchYA+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,0.75,Paradise Valley Burger Company,0.8
+322,eAJ3Ip0vh-zuk_BmcmchYA+++jOd8nrsgnRrh-gNKgz_zuw,Paradise Valley Burger Company,0.8,Chino Bandido,0.75
+323,eAJ3Ip0vh-zuk_BmcmchYA+++KUTTubStiNYigQpi3L9-3w,Dubliner,0.75,Paradise Valley Burger Company,1.0
+324,eAJ3Ip0vh-zuk_BmcmchYA+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.75,Paradise Valley Burger Company,1.0
+325,eAJ3Ip0vh-zuk_BmcmchYA+++maK3UBQczh33NuDjBYeHrA,Paradise Valley Burger Company,1.0,Chino Bandido,1.0
+326,eAJ3Ip0vh-zuk_BmcmchYA+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.75,Chino Bandido,1.0
+327,eAJ3Ip0vh-zuk_BmcmchYA+++OaN8UG7flab58O525eRsgQ,Dubliner,0.3333,Paradise Valley Burger Company,0.8
+328,eAJ3Ip0vh-zuk_BmcmchYA+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.75,Paradise Valley Burger Company,0.75
+329,eAJ3Ip0vh-zuk_BmcmchYA+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.75,Paradise Valley Burger Company,0.75
+330,eAJ3Ip0vh-zuk_BmcmchYA+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,0.75,Paradise Valley Burger Company,0.8
+331,eAJ3Ip0vh-zuk_BmcmchYA+++TryfbZaaGtedncOMq9k86g,Dubliner,0.75,Chino Bandido,0.8
+332,eAJ3Ip0vh-zuk_BmcmchYA+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.75,Paradise Valley Burger Company,1.0
+333,eAJ3Ip0vh-zuk_BmcmchYA+++u0JoB0Vm1ZhwF8nysxPnfg,Paradise Valley Burger Company,1.0,Chino Bandido,1.0
+334,eAJ3Ip0vh-zuk_BmcmchYA+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.75,Chino Bandido,1.0
+335,ePfhvRM-deQgMduESHRWDg+++GK07iEy8UllYo113DlNnww,Dubliner,0.5,Cibo,0.75
+336,ePfhvRM-deQgMduESHRWDg+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,1.0,Cibo,1.0
+337,ePfhvRM-deQgMduESHRWDg+++kc-rnN-ndnFTdHG4TfIgeQ,Dubliner,0.75,Cibo,0.8
+338,ePfhvRM-deQgMduESHRWDg+++KUTTubStiNYigQpi3L9-3w,Dubliner,1.0,Valle Luna,0.8
+339,ePfhvRM-deQgMduESHRWDg+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Cibo,1.0
+340,ePfhvRM-deQgMduESHRWDg+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Cibo,1.0
+341,ePfhvRM-deQgMduESHRWDg+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.75,Valle Luna,0.8
+342,ePfhvRM-deQgMduESHRWDg+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Cibo,0.8
+343,ePfhvRM-deQgMduESHRWDg+++S0YQ47x5g8SfZe87KGvsJw,Cibo,0.8,Valle Luna,1.0
+344,ePfhvRM-deQgMduESHRWDg+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Valle Luna,1.0
+345,ePfhvRM-deQgMduESHRWDg+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Valle Luna,0.8
+346,ePfhvRM-deQgMduESHRWDg+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Cibo,0.8
+347,ePfhvRM-deQgMduESHRWDg+++U8LUyd8gYns7IIRmXIzPbA,Dubliner,0.75,Cibo,1.0
+348,ePfhvRM-deQgMduESHRWDg+++YSvMlcF2k6KtUCedgfsYwg,Dubliner,0.25,Valle Luna,0.8
+349,ffPY_bHX8vLebHu8LBEqfg+++G2OheOuxzSC9B5SbDM6NaA,Dubliner,0.8,Yard House,1.0
+350,ffPY_bHX8vLebHu8LBEqfg+++GK07iEy8UllYo113DlNnww,Paradise Valley Burger Company,0.75,Yard House,0.75
+351,ffPY_bHX8vLebHu8LBEqfg+++GK07iEy8UllYo113DlNnww,Dubliner,0.5,Paradise Valley Burger Company,0.75
+352,ffPY_bHX8vLebHu8LBEqfg+++GK07iEy8UllYo113DlNnww,Dubliner,0.5,Yard House,0.75
+353,ffPY_bHX8vLebHu8LBEqfg+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,0.75,Yard House,1.0
+354,ffPY_bHX8vLebHu8LBEqfg+++iDlkZO2iILS8Jwfdy7DP9A,Chino Bandido,0.4,Yard House,1.0
+355,ffPY_bHX8vLebHu8LBEqfg+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,0.75,Chino Bandido,0.4
+356,ffPY_bHX8vLebHu8LBEqfg+++jOd8nrsgnRrh-gNKgz_zuw,Paradise Valley Burger Company,0.6,Chino Bandido,0.6
+357,ffPY_bHX8vLebHu8LBEqfg+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,1.0,Paradise Valley Burger Company,0.6
+358,ffPY_bHX8vLebHu8LBEqfg+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,1.0,Chino Bandido,0.6
+359,ffPY_bHX8vLebHu8LBEqfg+++kpZWl_uXA262ji6wt6phpg,Dubliner,0.5,Yard House,0.8
+360,ffPY_bHX8vLebHu8LBEqfg+++KUTTubStiNYigQpi3L9-3w,Dubliner,1.0,Paradise Valley Burger Company,0.75
+361,ffPY_bHX8vLebHu8LBEqfg+++maK3UBQczh33NuDjBYeHrA,Chino Bandido,0.8,Yard House,1.0
+362,ffPY_bHX8vLebHu8LBEqfg+++maK3UBQczh33NuDjBYeHrA,Paradise Valley Burger Company,0.75,Chino Bandido,0.8
+363,ffPY_bHX8vLebHu8LBEqfg+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Chino Bandido,0.8
+364,ffPY_bHX8vLebHu8LBEqfg+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Paradise Valley Burger Company,0.75
+365,ffPY_bHX8vLebHu8LBEqfg+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Yard House,1.0
+366,ffPY_bHX8vLebHu8LBEqfg+++maK3UBQczh33NuDjBYeHrA,Paradise Valley Burger Company,0.75,Yard House,1.0
+367,ffPY_bHX8vLebHu8LBEqfg+++Mt_hbOLexq5NUCaUXqhHgA,Dubliner,0.75,Original Breakfast House,1.0
+368,ffPY_bHX8vLebHu8LBEqfg+++OaN8UG7flab58O525eRsgQ,Dubliner,0.25,Paradise Valley Burger Company,0.6
+369,ffPY_bHX8vLebHu8LBEqfg+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,0.5,Original Breakfast House,1.0
+370,ffPY_bHX8vLebHu8LBEqfg+++q2B124odCQB5SWTrdbXPZw,Dubliner,0.75,Original Breakfast House,1.0
+371,ffPY_bHX8vLebHu8LBEqfg+++qb9kvGuavKng9adYvx-RMg,Dubliner,1.0,Paradise Valley Burger Company,1.0
+372,ffPY_bHX8vLebHu8LBEqfg+++qb9kvGuavKng9adYvx-RMg,Dubliner,1.0,Original Breakfast House,0.75
+373,ffPY_bHX8vLebHu8LBEqfg+++qb9kvGuavKng9adYvx-RMg,Paradise Valley Burger Company,1.0,Original Breakfast House,0.75
+374,ffPY_bHX8vLebHu8LBEqfg+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.75,Yard House,1.0
+375,ffPY_bHX8vLebHu8LBEqfg+++rWz-qRVQPtOs2pH5GSA71g,Dubliner,0.8,Original Breakfast House,0.25
+376,ffPY_bHX8vLebHu8LBEqfg+++S0YQ47x5g8SfZe87KGvsJw,Paradise Valley Burger Company,1.0,Yard House,0.75
+377,ffPY_bHX8vLebHu8LBEqfg+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Yard House,0.75
+378,ffPY_bHX8vLebHu8LBEqfg+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Paradise Valley Burger Company,1.0
+379,ffPY_bHX8vLebHu8LBEqfg+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,1.0,Paradise Valley Burger Company,0.6
+380,ffPY_bHX8vLebHu8LBEqfg+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Yard House,1.0
+381,ffPY_bHX8vLebHu8LBEqfg+++TryfbZaaGtedncOMq9k86g,Chino Bandido,1.0,Yard House,1.0
+382,ffPY_bHX8vLebHu8LBEqfg+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Chino Bandido,1.0
+383,ffPY_bHX8vLebHu8LBEqfg+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Paradise Valley Burger Company,0.75
+384,ffPY_bHX8vLebHu8LBEqfg+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Chino Bandido,0.8
+385,ffPY_bHX8vLebHu8LBEqfg+++u0JoB0Vm1ZhwF8nysxPnfg,Paradise Valley Burger Company,0.75,Chino Bandido,0.8
+386,G2OheOuxzSC9B5SbDM6NaA+++GK07iEy8UllYo113DlNnww,Dubliner,0.4,Yard House,0.75
+387,G2OheOuxzSC9B5SbDM6NaA+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,0.6,Yard House,1.0
+388,G2OheOuxzSC9B5SbDM6NaA+++kpZWl_uXA262ji6wt6phpg,Dubliner,0.4,Yard House,0.8
+389,G2OheOuxzSC9B5SbDM6NaA+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.8,Yard House,1.0
+390,G2OheOuxzSC9B5SbDM6NaA+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.6,Yard House,1.0
+391,G2OheOuxzSC9B5SbDM6NaA+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.8,Yard House,0.75
+392,G2OheOuxzSC9B5SbDM6NaA+++TryfbZaaGtedncOMq9k86g,Dubliner,0.8,Yard House,1.0
+393,GK07iEy8UllYo113DlNnww+++iDlkZO2iILS8Jwfdy7DP9A,Dubliner,0.6667,Yard House,0.75
+394,GK07iEy8UllYo113DlNnww+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,0.5,Paradise Valley Burger Company,0.8
+395,GK07iEy8UllYo113DlNnww+++jOd8nrsgnRrh-gNKgz_zuw,Paradise Valley Burger Company,0.8,Cibo,0.75
+396,GK07iEy8UllYo113DlNnww+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,0.5,Cibo,0.75
+397,GK07iEy8UllYo113DlNnww+++kc-rnN-ndnFTdHG4TfIgeQ,Dubliner,0.6667,Cibo,0.6
+398,GK07iEy8UllYo113DlNnww+++kpZWl_uXA262ji6wt6phpg,Dubliner,1.0,Yard House,0.6
+399,GK07iEy8UllYo113DlNnww+++KUTTubStiNYigQpi3L9-3w,Dubliner,0.5,Paradise Valley Burger Company,1.0
+400,GK07iEy8UllYo113DlNnww+++maK3UBQczh33NuDjBYeHrA,Cibo,0.75,Yard House,0.75
+401,GK07iEy8UllYo113DlNnww+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.5,Paradise Valley Burger Company,1.0
+402,GK07iEy8UllYo113DlNnww+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.5,Yard House,0.75
+403,GK07iEy8UllYo113DlNnww+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.5,Cibo,0.75
+404,GK07iEy8UllYo113DlNnww+++maK3UBQczh33NuDjBYeHrA,Paradise Valley Burger Company,1.0,Yard House,0.75
+405,GK07iEy8UllYo113DlNnww+++maK3UBQczh33NuDjBYeHrA,Paradise Valley Burger Company,1.0,Cibo,0.75
+406,GK07iEy8UllYo113DlNnww+++OaN8UG7flab58O525eRsgQ,Dubliner,0.5,Paradise Valley Burger Company,0.8
+407,GK07iEy8UllYo113DlNnww+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.5,Paradise Valley Burger Company,0.75
+408,GK07iEy8UllYo113DlNnww+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.4,Cibo,0.75
+409,GK07iEy8UllYo113DlNnww+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.6667,Yard House,0.75
+410,GK07iEy8UllYo113DlNnww+++S0YQ47x5g8SfZe87KGvsJw,Paradise Valley Burger Company,0.75,Yard House,1.0
+411,GK07iEy8UllYo113DlNnww+++S0YQ47x5g8SfZe87KGvsJw,Cibo,0.6,Yard House,1.0
+412,GK07iEy8UllYo113DlNnww+++S0YQ47x5g8SfZe87KGvsJw,Paradise Valley Burger Company,0.75,Cibo,0.6
+413,GK07iEy8UllYo113DlNnww+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.5,Yard House,1.0
+414,GK07iEy8UllYo113DlNnww+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.5,Cibo,0.6
+415,GK07iEy8UllYo113DlNnww+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.5,Paradise Valley Burger Company,0.75
+416,GK07iEy8UllYo113DlNnww+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,0.5,Paradise Valley Burger Company,0.8
+417,GK07iEy8UllYo113DlNnww+++TryfbZaaGtedncOMq9k86g,Dubliner,0.5,Yard House,0.75
+418,GK07iEy8UllYo113DlNnww+++u0JoB0Vm1ZhwF8nysxPnfg,Paradise Valley Burger Company,1.0,Cibo,0.6
+419,GK07iEy8UllYo113DlNnww+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.5,Cibo,0.6
+420,GK07iEy8UllYo113DlNnww+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.5,Paradise Valley Burger Company,1.0
+421,GK07iEy8UllYo113DlNnww+++U8LUyd8gYns7IIRmXIzPbA,Dubliner,0.6667,Cibo,0.75
+422,HkN6cx0EWOrnLIa4YCrnmg+++I23Esl07aqjDS8AANKn1-w,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.6
+423,HkN6cx0EWOrnLIa4YCrnmg+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.6
+424,HkN6cx0EWOrnLIa4YCrnmg+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,1.0,OHSO Brewery - Paradise Valley,0.3333
+425,HkN6cx0EWOrnLIa4YCrnmg+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.75
+426,I23Esl07aqjDS8AANKn1-w+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,0.25,OHSO Brewery - Paradise Valley,1.0
+427,I23Esl07aqjDS8AANKn1-w+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.2
+428,I23Esl07aqjDS8AANKn1-w+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.25,OHSO Brewery - Paradise Valley,0.8
+429,iDlkZO2iILS8Jwfdy7DP9A+++jOd8nrsgnRrh-gNKgz_zuw,Dubliner,0.75,Chino Bandido,0.6667
+430,iDlkZO2iILS8Jwfdy7DP9A+++kpZWl_uXA262ji6wt6phpg,Dubliner,0.6667,Yard House,0.8
+431,iDlkZO2iILS8Jwfdy7DP9A+++KUTTubStiNYigQpi3L9-3w,Dubliner,0.75,Feeney's Restaurant and Bar,0.8
+432,iDlkZO2iILS8Jwfdy7DP9A+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.75,Yard House,1.0
+433,iDlkZO2iILS8Jwfdy7DP9A+++maK3UBQczh33NuDjBYeHrA,Chino Bandido,0.5,Yard House,1.0
+434,iDlkZO2iILS8Jwfdy7DP9A+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.75,Chino Bandido,0.5
+435,iDlkZO2iILS8Jwfdy7DP9A+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.6,Feeney's Restaurant and Bar,0.8
+436,iDlkZO2iILS8Jwfdy7DP9A+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,1.0,Yard House,1.0
+437,iDlkZO2iILS8Jwfdy7DP9A+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.75,Yard House,0.75
+438,iDlkZO2iILS8Jwfdy7DP9A+++TryfbZaaGtedncOMq9k86g,Chino Bandido,0.4,Yard House,1.0
+439,iDlkZO2iILS8Jwfdy7DP9A+++TryfbZaaGtedncOMq9k86g,Dubliner,0.75,Yard House,1.0
+440,iDlkZO2iILS8Jwfdy7DP9A+++TryfbZaaGtedncOMq9k86g,Dubliner,0.75,Chino Bandido,0.4
+441,iDlkZO2iILS8Jwfdy7DP9A+++u0JoB0Vm1ZhwF8nysxPnfg,Chino Bandido,0.5,Feeney's Restaurant and Bar,0.8
+442,iDlkZO2iILS8Jwfdy7DP9A+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.75,Chino Bandido,0.5
+443,iDlkZO2iILS8Jwfdy7DP9A+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.75,Feeney's Restaurant and Bar,0.8
+444,iDlkZO2iILS8Jwfdy7DP9A+++YQJeEVDhR5uu1WPkMlN_cg,Dubliner,1.0,Feeney's Restaurant and Bar,0.8
+445,jOd8nrsgnRrh-gNKgz_zuw+++kc-rnN-ndnFTdHG4TfIgeQ,Dubliner,0.75,Cibo,0.8
+446,jOd8nrsgnRrh-gNKgz_zuw+++KUTTubStiNYigQpi3L9-3w,Dubliner,1.0,Paradise Valley Burger Company,0.8
+447,jOd8nrsgnRrh-gNKgz_zuw+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Chino Bandido,0.75
+448,jOd8nrsgnRrh-gNKgz_zuw+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Cibo,1.0
+449,jOd8nrsgnRrh-gNKgz_zuw+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Paradise Valley Burger Company,0.8
+450,jOd8nrsgnRrh-gNKgz_zuw+++maK3UBQczh33NuDjBYeHrA,Paradise Valley Burger Company,0.8,Chino Bandido,0.75
+451,jOd8nrsgnRrh-gNKgz_zuw+++maK3UBQczh33NuDjBYeHrA,Paradise Valley Burger Company,0.8,Cibo,1.0
+452,jOd8nrsgnRrh-gNKgz_zuw+++maK3UBQczh33NuDjBYeHrA,Cibo,1.0,Chino Bandido,0.75
+453,jOd8nrsgnRrh-gNKgz_zuw+++OaN8UG7flab58O525eRsgQ,Dubliner,0.25,Paradise Valley Burger Company,1.0
+454,jOd8nrsgnRrh-gNKgz_zuw+++qb9kvGuavKng9adYvx-RMg,Dubliner,1.0,Paradise Valley Burger Company,0.6
+455,jOd8nrsgnRrh-gNKgz_zuw+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Cibo,1.0
+456,jOd8nrsgnRrh-gNKgz_zuw+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Cibo,0.8
+457,jOd8nrsgnRrh-gNKgz_zuw+++S0YQ47x5g8SfZe87KGvsJw,Paradise Valley Burger Company,0.6,Cibo,0.8
+458,jOd8nrsgnRrh-gNKgz_zuw+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Paradise Valley Burger Company,0.6
+459,jOd8nrsgnRrh-gNKgz_zuw+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,1.0,Paradise Valley Burger Company,1.0
+460,jOd8nrsgnRrh-gNKgz_zuw+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Chino Bandido,0.6
+461,jOd8nrsgnRrh-gNKgz_zuw+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Chino Bandido,0.75
+462,jOd8nrsgnRrh-gNKgz_zuw+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Paradise Valley Burger Company,0.8
+463,jOd8nrsgnRrh-gNKgz_zuw+++u0JoB0Vm1ZhwF8nysxPnfg,Paradise Valley Burger Company,0.8,Cibo,0.8
+464,jOd8nrsgnRrh-gNKgz_zuw+++u0JoB0Vm1ZhwF8nysxPnfg,Paradise Valley Burger Company,0.8,Chino Bandido,0.75
+465,jOd8nrsgnRrh-gNKgz_zuw+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Cibo,0.8
+466,jOd8nrsgnRrh-gNKgz_zuw+++u0JoB0Vm1ZhwF8nysxPnfg,Cibo,0.8,Chino Bandido,0.75
+467,jOd8nrsgnRrh-gNKgz_zuw+++U8LUyd8gYns7IIRmXIzPbA,Dubliner,0.75,Cibo,1.0
+468,kc-rnN-ndnFTdHG4TfIgeQ+++kJsMFBdQ_Do67u3lpvaujA,Dubliner,0.75,Rokerij,1.0
+469,kc-rnN-ndnFTdHG4TfIgeQ+++maK3UBQczh33NuDjBYeHrA,Cibo,0.8,Rokerij,1.0
+470,kc-rnN-ndnFTdHG4TfIgeQ+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.75,Rokerij,1.0
+471,kc-rnN-ndnFTdHG4TfIgeQ+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.75,Cibo,0.8
+472,kc-rnN-ndnFTdHG4TfIgeQ+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.75,Rokerij,0.8
+473,kc-rnN-ndnFTdHG4TfIgeQ+++R4eLJKwG9yQ44vfwaUHS3g,Cibo,0.8,Rokerij,1.0
+474,kc-rnN-ndnFTdHG4TfIgeQ+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.6,Cibo,0.8
+475,kc-rnN-ndnFTdHG4TfIgeQ+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.6,Rokerij,1.0
+476,kc-rnN-ndnFTdHG4TfIgeQ+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.75,Cibo,1.0
+477,kc-rnN-ndnFTdHG4TfIgeQ+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.75,Cibo,1.0
+478,kc-rnN-ndnFTdHG4TfIgeQ+++U8LUyd8gYns7IIRmXIzPbA,Dubliner,1.0,Cibo,0.8
+479,kJsMFBdQ_Do67u3lpvaujA+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Rokerij,1.0
+480,kJsMFBdQ_Do67u3lpvaujA+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.2
+481,kJsMFBdQ_Do67u3lpvaujA+++qb9kvGuavKng9adYvx-RMg,Dubliner,1.0,Rokerij,0.8
+482,kJsMFBdQ_Do67u3lpvaujA+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Rokerij,1.0
+483,kJsMFBdQ_Do67u3lpvaujA+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,OHSO Brewery - Paradise Valley,0.8
+484,kpZWl_uXA262ji6wt6phpg+++maK3UBQczh33NuDjBYeHrA,Dubliner,0.5,Yard House,0.8
+485,kpZWl_uXA262ji6wt6phpg+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.6667,Yard House,0.8
+486,kpZWl_uXA262ji6wt6phpg+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.5,Yard House,0.6
+487,kpZWl_uXA262ji6wt6phpg+++TryfbZaaGtedncOMq9k86g,Dubliner,0.5,Yard House,0.8
+488,KUTTubStiNYigQpi3L9-3w+++maK3UBQczh33NuDjBYeHrA,Dubliner,1.0,Paradise Valley Burger Company,1.0
+489,KUTTubStiNYigQpi3L9-3w+++OaN8UG7flab58O525eRsgQ,Dubliner,0.25,Paradise Valley Burger Company,0.8
+490,KUTTubStiNYigQpi3L9-3w+++qb9kvGuavKng9adYvx-RMg,Dubliner,1.0,Paradise Valley Burger Company,0.75
+491,KUTTubStiNYigQpi3L9-3w+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Feeney's Restaurant and Bar,1.0
+492,KUTTubStiNYigQpi3L9-3w+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.75,Valle Luna,1.0
+493,KUTTubStiNYigQpi3L9-3w+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Valle Luna,0.8
+494,KUTTubStiNYigQpi3L9-3w+++S0YQ47x5g8SfZe87KGvsJw,Paradise Valley Burger Company,0.75,Valle Luna,0.8
+495,KUTTubStiNYigQpi3L9-3w+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Paradise Valley Burger Company,0.75
+496,KUTTubStiNYigQpi3L9-3w+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,1.0,Paradise Valley Burger Company,0.8
+497,KUTTubStiNYigQpi3L9-3w+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Valle Luna,1.0
+498,KUTTubStiNYigQpi3L9-3w+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Paradise Valley Burger Company,1.0
+499,KUTTubStiNYigQpi3L9-3w+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Feeney's Restaurant and Bar,1.0
+500,KUTTubStiNYigQpi3L9-3w+++u0JoB0Vm1ZhwF8nysxPnfg,Paradise Valley Burger Company,1.0,Feeney's Restaurant and Bar,1.0
+501,KUTTubStiNYigQpi3L9-3w+++YQJeEVDhR5uu1WPkMlN_cg,Dubliner,0.75,Feeney's Restaurant and Bar,1.0
+502,KUTTubStiNYigQpi3L9-3w+++YSvMlcF2k6KtUCedgfsYwg,Dubliner,0.25,Valle Luna,1.0
+503,maK3UBQczh33NuDjBYeHrA+++OaN8UG7flab58O525eRsgQ,Dubliner,0.25,Paradise Valley Burger Company,0.8
+504,maK3UBQczh33NuDjBYeHrA+++qb9kvGuavKng9adYvx-RMg,Paradise Valley Burger Company,0.75,Rokerij,0.8
+505,maK3UBQczh33NuDjBYeHrA+++qb9kvGuavKng9adYvx-RMg,Dubliner,1.0,Rokerij,0.8
+506,maK3UBQczh33NuDjBYeHrA+++qb9kvGuavKng9adYvx-RMg,Dubliner,1.0,Paradise Valley Burger Company,0.75
+507,maK3UBQczh33NuDjBYeHrA+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Rokerij,1.0
+508,maK3UBQczh33NuDjBYeHrA+++R4eLJKwG9yQ44vfwaUHS3g,Cibo,1.0,Rokerij,1.0
+509,maK3UBQczh33NuDjBYeHrA+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Cibo,1.0
+510,maK3UBQczh33NuDjBYeHrA+++R6VQwYh9UiV-gDZ1bh0jzw,Dubliner,0.75,Yard House,1.0
+511,maK3UBQczh33NuDjBYeHrA+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Cibo,0.8
+512,maK3UBQczh33NuDjBYeHrA+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Yard House,0.75
+513,maK3UBQczh33NuDjBYeHrA+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Paradise Valley Burger Company,0.75
+514,maK3UBQczh33NuDjBYeHrA+++S0YQ47x5g8SfZe87KGvsJw,Paradise Valley Burger Company,0.75,Yard House,0.75
+515,maK3UBQczh33NuDjBYeHrA+++S0YQ47x5g8SfZe87KGvsJw,Paradise Valley Burger Company,0.75,Cibo,0.8
+516,maK3UBQczh33NuDjBYeHrA+++S0YQ47x5g8SfZe87KGvsJw,Cibo,0.8,Yard House,0.75
+517,maK3UBQczh33NuDjBYeHrA+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,1.0,Paradise Valley Burger Company,0.8
+518,maK3UBQczh33NuDjBYeHrA+++TryfbZaaGtedncOMq9k86g,Chino Bandido,0.8,Yard House,1.0
+519,maK3UBQczh33NuDjBYeHrA+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Chino Bandido,0.8
+520,maK3UBQczh33NuDjBYeHrA+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Yard House,1.0
+521,maK3UBQczh33NuDjBYeHrA+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Paradise Valley Burger Company,1.0
+522,maK3UBQczh33NuDjBYeHrA+++u0JoB0Vm1ZhwF8nysxPnfg,Cibo,0.8,Chino Bandido,1.0
+523,maK3UBQczh33NuDjBYeHrA+++u0JoB0Vm1ZhwF8nysxPnfg,Paradise Valley Burger Company,1.0,Cibo,0.8
+524,maK3UBQczh33NuDjBYeHrA+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Chino Bandido,1.0
+525,maK3UBQczh33NuDjBYeHrA+++u0JoB0Vm1ZhwF8nysxPnfg,Paradise Valley Burger Company,1.0,Chino Bandido,1.0
+526,maK3UBQczh33NuDjBYeHrA+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Cibo,0.8
+527,maK3UBQczh33NuDjBYeHrA+++U8LUyd8gYns7IIRmXIzPbA,Dubliner,0.75,Cibo,1.0
+528,Mt_hbOLexq5NUCaUXqhHgA+++OK9t7c_Ew8iB8AwkM4r0Jg,Dubliner,0.6667,Original Breakfast House,1.0
+529,Mt_hbOLexq5NUCaUXqhHgA+++q2B124odCQB5SWTrdbXPZw,Dubliner,1.0,Original Breakfast House,1.0
+530,Mt_hbOLexq5NUCaUXqhHgA+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.75,Original Breakfast House,0.75
+531,Mt_hbOLexq5NUCaUXqhHgA+++rWz-qRVQPtOs2pH5GSA71g,Dubliner,0.6,Original Breakfast House,0.25
+532,OaN8UG7flab58O525eRsgQ+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.25,Paradise Valley Burger Company,0.6
+533,OaN8UG7flab58O525eRsgQ+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.25,Paradise Valley Burger Company,0.6
+534,OaN8UG7flab58O525eRsgQ+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,0.25,Paradise Valley Burger Company,1.0
+535,OaN8UG7flab58O525eRsgQ+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.25,Paradise Valley Burger Company,0.8
+536,OK9t7c_Ew8iB8AwkM4r0Jg+++q2B124odCQB5SWTrdbXPZw,Dubliner,0.6667,Original Breakfast House,1.0
+537,OK9t7c_Ew8iB8AwkM4r0Jg+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.5,Original Breakfast House,0.75
+538,OK9t7c_Ew8iB8AwkM4r0Jg+++rWz-qRVQPtOs2pH5GSA71g,Dubliner,0.4,Original Breakfast House,0.25
+539,OK9t7c_Ew8iB8AwkM4r0Jg+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.5,OHSO Brewery - Paradise Valley,0.25
+540,q2B124odCQB5SWTrdbXPZw+++qb9kvGuavKng9adYvx-RMg,Dubliner,0.75,Original Breakfast House,0.75
+541,q2B124odCQB5SWTrdbXPZw+++rWz-qRVQPtOs2pH5GSA71g,Dubliner,0.6,Original Breakfast House,0.25
+542,qb9kvGuavKng9adYvx-RMg+++R4eLJKwG9yQ44vfwaUHS3g,Dubliner,0.8,Rokerij,0.8
+543,qb9kvGuavKng9adYvx-RMg+++rWz-qRVQPtOs2pH5GSA71g,Dubliner,0.8,Original Breakfast House,0.3333
+544,qb9kvGuavKng9adYvx-RMg+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,1.0,Paradise Valley Burger Company,1.0
+545,qb9kvGuavKng9adYvx-RMg+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,1.0,Paradise Valley Burger Company,0.6
+546,qb9kvGuavKng9adYvx-RMg+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Paradise Valley Burger Company,0.75
+547,R4eLJKwG9yQ44vfwaUHS3g+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.8,Cibo,0.8
+548,R4eLJKwG9yQ44vfwaUHS3g+++u0JoB0Vm1ZhwF8nysxPnfg,Cibo,0.8,Feeney's Restaurant and Bar,1.0
+549,R4eLJKwG9yQ44vfwaUHS3g+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.8,Feeney's Restaurant and Bar,1.0
+550,R4eLJKwG9yQ44vfwaUHS3g+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,0.8,Cibo,0.8
+551,R4eLJKwG9yQ44vfwaUHS3g+++U8LUyd8gYns7IIRmXIzPbA,Dubliner,0.6,Cibo,1.0
+552,R4eLJKwG9yQ44vfwaUHS3g+++YQJeEVDhR5uu1WPkMlN_cg,Dubliner,0.6,Feeney's Restaurant and Bar,1.0
+553,R6VQwYh9UiV-gDZ1bh0jzw+++S0YQ47x5g8SfZe87KGvsJw,Yard House,0.75,Valle Luna,0.8
+554,R6VQwYh9UiV-gDZ1bh0jzw+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.75,Yard House,0.75
+555,R6VQwYh9UiV-gDZ1bh0jzw+++S0YQ47x5g8SfZe87KGvsJw,Dubliner,0.75,Valle Luna,0.8
+556,R6VQwYh9UiV-gDZ1bh0jzw+++TryfbZaaGtedncOMq9k86g,Dubliner,0.75,Yard House,1.0
+557,R6VQwYh9UiV-gDZ1bh0jzw+++TryfbZaaGtedncOMq9k86g,Dubliner,0.75,Valle Luna,1.0
+558,R6VQwYh9UiV-gDZ1bh0jzw+++TryfbZaaGtedncOMq9k86g,Yard House,1.0,Valle Luna,1.0
+559,R6VQwYh9UiV-gDZ1bh0jzw+++YSvMlcF2k6KtUCedgfsYwg,Dubliner,0.3333,Valle Luna,1.0
+560,S0YQ47x5g8SfZe87KGvsJw+++sTRXW4mmFm0uLDLpf1VeYw,Dubliner,1.0,Paradise Valley Burger Company,0.6
+561,S0YQ47x5g8SfZe87KGvsJw+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Yard House,0.75
+562,S0YQ47x5g8SfZe87KGvsJw+++TryfbZaaGtedncOMq9k86g,Dubliner,1.0,Valle Luna,0.8
+563,S0YQ47x5g8SfZe87KGvsJw+++TryfbZaaGtedncOMq9k86g,Yard House,0.75,Valle Luna,0.8
+564,S0YQ47x5g8SfZe87KGvsJw+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Paradise Valley Burger Company,0.75
+565,S0YQ47x5g8SfZe87KGvsJw+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Cibo,1.0
+566,S0YQ47x5g8SfZe87KGvsJw+++u0JoB0Vm1ZhwF8nysxPnfg,Paradise Valley Burger Company,0.75,Cibo,1.0
+567,S0YQ47x5g8SfZe87KGvsJw+++U8LUyd8gYns7IIRmXIzPbA,Dubliner,0.75,Cibo,0.8
+568,S0YQ47x5g8SfZe87KGvsJw+++YSvMlcF2k6KtUCedgfsYwg,Dubliner,0.25,Valle Luna,0.8
+569,sTRXW4mmFm0uLDLpf1VeYw+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Paradise Valley Burger Company,0.8
+570,TryfbZaaGtedncOMq9k86g+++u0JoB0Vm1ZhwF8nysxPnfg,Dubliner,1.0,Chino Bandido,0.8
+571,TryfbZaaGtedncOMq9k86g+++YSvMlcF2k6KtUCedgfsYwg,Dubliner,0.25,Valle Luna,1.0
+572,u0JoB0Vm1ZhwF8nysxPnfg+++U8LUyd8gYns7IIRmXIzPbA,Dubliner,0.75,Cibo,0.8
+573,u0JoB0Vm1ZhwF8nysxPnfg+++YQJeEVDhR5uu1WPkMlN_cg,Dubliner,0.75,Feeney's Restaurant and Bar,1.0

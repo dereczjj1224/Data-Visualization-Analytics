@@ -1,0 +1,46 @@
+,user_pair,restaurant1,match1,restaurant2,match2
+0,1YRDt0Bqmxsp6DHIm0SuwQ+++oUst55rUuv2nKEQ0FgJ5GQ,Kabab House,1,Viet Kitchen,0.6667
+1,1YRDt0Bqmxsp6DHIm0SuwQ+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,Viet Kitchen,0.4
+2,CwkFJ_8zxwvTMX3jsLceJg+++jL41h4Ez98PZfqiKzbbY1w,Kabab House,0.5,Hammered Hog BBQ Hall & Saloon,0.6667
+3,CwkFJ_8zxwvTMX3jsLceJg+++z_tqPytGQF_tDw_buHKJcw,Kabab House,0.5,Hammered Hog BBQ Hall & Saloon,0.4
+4,hZ_ElhGO3sQDVvM8ZrQetA+++i9pHU-_IFU9lPUed98zS9g,Kabab House,0.75,Gyro House,1
+5,hZ_ElhGO3sQDVvM8ZrQetA+++jrqE4Jx-boDAxj4X7CLStQ,Kabab House,1,Gyro House,1
+6,i9pHU-_IFU9lPUed98zS9g+++jrqE4Jx-boDAxj4X7CLStQ,Kabab House,0.75,Gyro House,1
+7,jL41h4Ez98PZfqiKzbbY1w+++jrqE4Jx-boDAxj4X7CLStQ,Kabab House,1,40th Street Cafe,1
+8,jL41h4Ez98PZfqiKzbbY1w+++jrqE4Jx-boDAxj4X7CLStQ,Kabab House,1,Isa's Pizza,0.8
+9,jL41h4Ez98PZfqiKzbbY1w+++jrqE4Jx-boDAxj4X7CLStQ,40th Street Cafe,1,Isa's Pizza,0.8
+10,jL41h4Ez98PZfqiKzbbY1w+++oUst55rUuv2nKEQ0FgJ5GQ,Kabab House,1,Isa's Pizza,0.8
+11,jL41h4Ez98PZfqiKzbbY1w+++qExRQH6XkSa91EGwvNX4jQ,Kabab House,1,40th Street Cafe,1
+12,jL41h4Ez98PZfqiKzbbY1w+++z_tqPytGQF_tDw_buHKJcw,40th Street Cafe,1,Hammered Hog BBQ Hall & Saloon,0.6
+13,jL41h4Ez98PZfqiKzbbY1w+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,Hammered Hog BBQ Hall & Saloon,0.6
+14,jL41h4Ez98PZfqiKzbbY1w+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,40th Street Cafe,1
+15,jrqE4Jx-boDAxj4X7CLStQ+++oUst55rUuv2nKEQ0FgJ5GQ,Kabab House,1,Rosati's Pizza,0.6667
+16,jrqE4Jx-boDAxj4X7CLStQ+++oUst55rUuv2nKEQ0FgJ5GQ,Mi Comida Restaurante Latino,1,Isa's Pizza,1
+17,jrqE4Jx-boDAxj4X7CLStQ+++oUst55rUuv2nKEQ0FgJ5GQ,Mi Comida Restaurante Latino,1,Rosati's Pizza,0.6667
+18,jrqE4Jx-boDAxj4X7CLStQ+++oUst55rUuv2nKEQ0FgJ5GQ,Kabab House,1,Mi Comida Restaurante Latino,1
+19,jrqE4Jx-boDAxj4X7CLStQ+++oUst55rUuv2nKEQ0FgJ5GQ,Isa's Pizza,1,Rosati's Pizza,0.6667
+20,jrqE4Jx-boDAxj4X7CLStQ+++oUst55rUuv2nKEQ0FgJ5GQ,Kabab House,1,Isa's Pizza,1
+21,jrqE4Jx-boDAxj4X7CLStQ+++qExRQH6XkSa91EGwvNX4jQ,Kabab House,1,40th Street Cafe,1
+22,jrqE4Jx-boDAxj4X7CLStQ+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,40th Street Cafe,1
+23,jrqE4Jx-boDAxj4X7CLStQ+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,Rosati's Pizza,0.75
+24,jrqE4Jx-boDAxj4X7CLStQ+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,Mi Comida Restaurante Latino,1
+25,jrqE4Jx-boDAxj4X7CLStQ+++z_tqPytGQF_tDw_buHKJcw,40th Street Cafe,1,Rosati's Pizza,0.75
+26,jrqE4Jx-boDAxj4X7CLStQ+++z_tqPytGQF_tDw_buHKJcw,40th Street Cafe,1,Mi Comida Restaurante Latino,1
+27,jrqE4Jx-boDAxj4X7CLStQ+++z_tqPytGQF_tDw_buHKJcw,Mi Comida Restaurante Latino,1,Rosati's Pizza,0.75
+28,oITgyVd36mnx9FFGOOBYFw+++qExRQH6XkSa91EGwvNX4jQ,Kabab House,0.8,Matador Coffee,1
+29,oITgyVd36mnx9FFGOOBYFw+++SvsoiaCf0WG7UIDJOxJ7Yg,Kabab House,1,Matador Coffee,1
+30,oUst55rUuv2nKEQ0FgJ5GQ+++qExRQH6XkSa91EGwvNX4jQ,Kabab House,1,Krua Thai Cuisine,1
+31,oUst55rUuv2nKEQ0FgJ5GQ+++z_tqPytGQF_tDw_buHKJcw,Viet Kitchen,0.6,Rosati's Pizza,0.5
+32,oUst55rUuv2nKEQ0FgJ5GQ+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,Mi Comida Restaurante Latino,1
+33,oUst55rUuv2nKEQ0FgJ5GQ+++z_tqPytGQF_tDw_buHKJcw,Mi Comida Restaurante Latino,1,Viet Kitchen,0.6
+34,oUst55rUuv2nKEQ0FgJ5GQ+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,Rosati's Pizza,0.5
+35,oUst55rUuv2nKEQ0FgJ5GQ+++z_tqPytGQF_tDw_buHKJcw,Krua Thai Cuisine,0.5,Mi Comida Restaurante Latino,1
+36,oUst55rUuv2nKEQ0FgJ5GQ+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,Viet Kitchen,0.6
+37,oUst55rUuv2nKEQ0FgJ5GQ+++z_tqPytGQF_tDw_buHKJcw,Krua Thai Cuisine,0.5,Rosati's Pizza,0.5
+38,oUst55rUuv2nKEQ0FgJ5GQ+++z_tqPytGQF_tDw_buHKJcw,Mi Comida Restaurante Latino,1,Rosati's Pizza,0.5
+39,oUst55rUuv2nKEQ0FgJ5GQ+++z_tqPytGQF_tDw_buHKJcw,Krua Thai Cuisine,0.5,Viet Kitchen,0.6
+40,oUst55rUuv2nKEQ0FgJ5GQ+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,Krua Thai Cuisine,0.5
+41,qExRQH6XkSa91EGwvNX4jQ+++SvsoiaCf0WG7UIDJOxJ7Yg,Kabab House,0.8,Matador Coffee,1
+42,qExRQH6XkSa91EGwvNX4jQ+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,40th Street Cafe,1
+43,qExRQH6XkSa91EGwvNX4jQ+++z_tqPytGQF_tDw_buHKJcw,Kabab House,1,Krua Thai Cuisine,0.5
+44,qExRQH6XkSa91EGwvNX4jQ+++z_tqPytGQF_tDw_buHKJcw,Krua Thai Cuisine,0.5,40th Street Cafe,1

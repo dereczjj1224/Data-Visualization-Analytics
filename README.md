@@ -6,7 +6,7 @@ DESCRIPTION
 ###############################################################
 
 The package is a copy of our github repository used during the development of the YUEGE application. The repository
-is private but is hosted at https://github.gatech.edu/bsmith419/bipolo. This package is explained as follows:
+was hosted at https://github.gatech.edu/bsmith419/bipolo. This package is explained as follows:
 
 Technical Summary:
 The bipolo project is a flask web application. The web application connects to a MySQL database which contains the

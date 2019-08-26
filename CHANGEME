@@ -1,0 +1,6 @@
+#
+# COPY ME TO polo_config_local.py and replace USERNAME and PASSWORD
+#
+#
+SQLALCHEMY_DATABASE_URI = 'mysql://root:password$5@polodb.c3ffx89lowrn.us-east-2.rds.amazonaws.com/yelp_db'
+SQLALCHEMY_ECHO = False # True
